@@ -128,5 +128,4 @@ struct MainWeatherStatusView: View {
     
 }
 
-// comments
 
